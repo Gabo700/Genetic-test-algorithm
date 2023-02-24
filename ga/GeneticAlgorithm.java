@@ -1,4 +1,4 @@
-package com.za.tutorial.ga;
+package genetic;
 public class GeneticAlgorithm {
 	public static final int POPULATION_SIZE = 8;
 	public static final int[] TARGET_CHROMOSOME = {1,1,0,1,0,0,1,1,0};
