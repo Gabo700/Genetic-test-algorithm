@@ -1,4 +1,4 @@
-package com.za.tutorial.ga;
+package genetic;
 import java.util.Arrays;
 public class Population {
 	private Chromosome[] chromosomes;
