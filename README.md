@@ -1,6 +1,6 @@
 Genetic test
 
-
+version of JAVA: 8
 
 
 Driver test:
