@@ -1,6 +1,8 @@
 package genetic;
 
+
 import java.util.Arrays;
+
 
 public class Chromosome {
 	private boolean isFitnessChanged = true;
